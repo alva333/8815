@@ -6,3 +6,4 @@ class MainView:
         self.master = master
         self.main_frame = ttk.Frame(self.master)
         self.main_frame.pack(fill=tk.BOTH, expand=1)
+        
